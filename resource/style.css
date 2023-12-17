@@ -907,6 +907,8 @@ main .container .content .row .link:nth-child(4):hover .ph-caret-right {
   main .header article .status {
     height: 1.1rem;
     width: 1.1rem;
+    top: 0.5rem;
+    right: 0;
   }
   main .header article img {
     height: 7rem;
